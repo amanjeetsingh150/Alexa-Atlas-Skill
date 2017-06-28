@@ -1,0 +1,10 @@
+PlayGame start a game
+PlayGame start atlas
+PlayGame lets play
+PlayGame play
+PlayGame play atlas
+PlayGame start game
+ContinueGame {country}
+AMAZON.HelpIntent help
+AMAZON.StopIntent stop
+AMAZON.CancelIntent cancel
