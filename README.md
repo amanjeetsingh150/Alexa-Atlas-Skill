@@ -14,3 +14,4 @@ and so on.
 <LI><a href="https://github.com/amanjeetsingh150/Alexa-Atlas-Skill/blob/master/assets/COUNTRIES">CustomSlot</a></LI>
 <LI><a href="https://github.com/amanjeetsingh150/Alexa-Atlas-Skill/blob/master/assets/SampleUtterances.txt">SampleUtterances</a></LI>
 </UL>
+P.S. : DO NOT SUBMIT THIS TO AMAZON FOR CERTIFICATION AS IT MAY NOT PASS!
